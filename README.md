@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drmsr6" alt="drmsr6" /></a> </p>
 
-- 🔭 I’m currently working on **Gen AI poc**
+- 🔭 I’m currently working on **Gen AI-Open AI/LLama/Huggingface/Gemini/VertexAI poc**
 
-- 🌱 I’m currently learning **Langchain and LLMS in Medical sciences/Banking sector**
+- 🌱 I’m currently understanding currents of  **Langchain and LLMS in Medical sciences/Banking sector/Geo spatial**
 
 - 👯 I’m looking to collaborate on **Lang Chain and RAG & AI agents Vertex AI**
 
